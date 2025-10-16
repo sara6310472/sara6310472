@@ -1,50 +1,89 @@
-# Hi, I'm Sara Chester 👋  
+# Hi, I'm Sara Chester 👋
 
-🚀 **Full Stack Developer** | 🌍 Based in Jerusalem | 💡 Passionate about building scalable web & desktop solutions  
-
----
-
-## 👩‍💻 About Me  
-I am a Full Stack Developer with experience in **React, TypeScript, Node.js, NestJS, Prisma, and C#**.  
-I enjoy creating efficient, modular, and maintainable applications while constantly learning new technologies.  
-Fast learner, problem-solver, and a strong team player with proven results in both academic and professional projects.  
+🚀 **Full Stack Developer** | 🌍 Based in Jerusalem | 💡 Passionate about scalable, data-driven solutions
 
 ---
 
-## 🛠️ Technical Skills  
-- **Languages**: Java, C/C++, C#, Python, JavaScript, TypeScript, SQL  
-- **Frontend**: React, Hooks, React Router, HTML5, CSS3  
-- **Backend**: Node.js, NestJS, Express.js, .NET Core, REST APIs  
-- **Databases**: MySQL, PostgreSQL, SQL Server  
-- **Tools**: Git, ClickUp, VS Code, Visual Studio, PyCharm, IntelliJ  
-- **Concepts**: OOP, MVVM, SOLID, Design Patterns (Singleton, Factory, Observer)  
+## 👩‍💻 About Me
+
+I’m a **Full Stack Developer** specializing in **React, Node.js, C#, and DevOps integration**, focused on building **efficient, scalable, and maintainable** applications.
+I combine strong analytical thinking, rapid learning, and clean architecture principles to turn complex challenges into elegant software solutions.
 
 ---
 
-## 📂 Key Projects  
-### 🔹 [Gitlink Developer Platform](#)  
-- Built with **React, Node.js, GitHub API**  
-- Real-time platform for 50+ developers to explore GitHub profiles and evaluate skills  
-- Helped accelerate hiring decisions by 40%  
+## 💼 Professional Experience
 
-### 🔹 Volunteer Management System  
-- Built with **C#, WPF, MVVM, XML**  
-- Desktop app for scheduling and tracking volunteers  
-- Increased match accuracy by 50% with rule-based logic  
+### **Full Stack Developer – Oz Software (Temporary Role, Present)**
 
----
+* ⚙️ Improved backend efficiency by **30%** through modular refactoring and performance-driven architecture.
+* 🚀 Boosted data-fetch speed by **25%** using **React Query** and **Context API optimization**.
+* 💻 Delivered responsive, scalable interfaces with **React, TypeScript, NestJS, Prisma, and PostgreSQL**.
 
-## 🎓 Education  
-- **B.Sc. in Computer Science (2024–2027)** – JCT Lev Academic Center (GPA: 92, 73 credits completed)  
-- **Software Engineering Certificate (2024–2025)** – MAHAT  
-- **Teaching Certificate (2024)**  
+### **Math & Computer Science Tutor – Perach Project (2025)**
+
+* 📈 Improved students’ grades by **20%** with personalized learning programs and gamified teaching.
+* 🎯 Increased engagement by **40%** through interactive problem-solving methods.
 
 ---
 
-## 🌐 Let's Connect  
-- 📧 Email: [Sara3280624@gmail.com](mailto:Sara3280624@gmail.com)  
-- 💼 LinkedIn: [Sara Chester](https://linkedin.com/in/sara-chester)  
-- 🖥️ GitHub: [sara6310472](https://github.com/sara6310472)  
+## 📂 Key Projects
+
+### 🔹 **AI Commit Assistant (VS Code Extension)**
+
+**Node.js | Google Gemini AI API | Azure DevOps**
+
+* 🤖 Increased developer efficiency by **50%** with AI-powered commit generation and code analysis.
+* ⚡ Automated **80%** of commit workflows, reducing manual effort and human errors.
+
+### 🔹 **Gitlink Developer Platform**
+
+**React | Node.js | GitHub API**
+
+* 👩‍💻 Built a real-time platform for **50+ developers** to analyze GitHub profiles.
+* 📊 Accelerated hiring decisions by **40%** through optimized dashboards and insights.
+
+### 🔹 **Volunteer Management System**
+
+**C# | WPF | MVVM | XML**
+
+* 🧩 Created a desktop app for scheduling **100+ volunteers**, increasing task efficiency by **50%**.
+* 🔍 Enhanced volunteer-task matching accuracy by **50%** using rule-based logic.
 
 ---
-⭐️ *Feel free to check out my repositories and projects. I'm always open to collaboration and new opportunities!*  
+
+## 🧠 Core Competencies
+
+* **Frontend:** React (Hooks, Router, Query), Angular, TypeScript, JavaScript (ES6), HTML5, CSS3
+* **Backend:** Node.js, NestJS, Express.js, C# (.NET Core, WPF), REST APIs, Prisma
+* **Databases:** PostgreSQL, MySQL, MongoDB, SQL Server
+* **DevOps & Tools:** Git, Docker, Azure DevOps, Visual Studio, VS Code, PyCharm, IntelliJ, DBeaver
+* **Concepts:** OOP, SOLID, MVVM, Design Patterns (Singleton, Factory, Observer)
+* **Soft Skills:** Agile teamwork, Mentoring, Rapid learning, Problem-solving, Cross-team collaboration
+
+---
+
+## 🎓 Education
+
+* 🎓 **B.Sc. in Computer Science (2024–2026)** – JCT, Jerusalem College of Technology
+  *GPA: 92 | 73 credits completed*
+* 🧩 **Software Engineering Certificate (2024–2025)** – MAHAT Technological Training Center
+* 📜 **Teaching Certificate (2024)**
+
+---
+
+## 🌐 Languages
+
+* 🇮🇱 **Hebrew:** Native
+* 🇬🇧 **English:** Advanced
+
+---
+
+## 🔗 Let's Connect
+
+* 📧 [Sara3280624@gmail.com](mailto:Sara3280624@gmail.com)
+* 💼 [LinkedIn – Sara Chester](https://linkedin.com/in/sara-chester)
+* 🖥️ [GitHub – sara6310472](https://github.com/sara6310472)
+
+---
+
+⭐ *Open to collaboration, mentorship, and exciting development opportunities!*
